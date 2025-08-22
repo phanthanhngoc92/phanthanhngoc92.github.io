@@ -4,8 +4,8 @@ site_author: Ngoc Phan (Megan)
 site_url: https://phanthanhngoc92.github.io
 
 # Repository
-repo_name: huatoanduong/huatoanduong.github.io
-repo_url: https://github.com/huatoanduong/phanthanhngoc92.github.io
+repo_name: phanthanhngoc92/phanthanhngoc92.github.io
+repo_url: https://github.com/phanthanhngoc92/phanthanhngoc92.github.io
 edit_uri: edit/main/docs/
 
 docs_dir: docs
